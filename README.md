@@ -60,6 +60,8 @@ Jawab : Kode ini menambahkan variabel 'text' ke dalam class RedTextWidget dan me
 **3. Pada langkah 6 terdapat dua widget yang ditambahkan, jelaskan fungsi dan perbedaannya!**
 Jawab : Kotak pertama berwarna kuning dan berisi teks yang telah disesuaikan dalam widget RedTextWidget, sedangkan kotak kedua berwarna hijau dan berisi teks biasa tanpa penyesuaian khusus menggunakan widget Text.
 
+# Link Github : https://github.com/KurniawatiAgustina/flutter_plugin_pubdev
+
 
 
 
